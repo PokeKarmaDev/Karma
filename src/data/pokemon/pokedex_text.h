@@ -5355,3 +5355,21 @@ const u8 gCalyrexPokedexText[] = _(
     "providing healing and blessings. It\n"
     "reigned over the Galar region in times\n"
     "of yore.");
+
+const u8 gIncognicrowPokedexText[] = _(
+    "This is placeholder text\n"
+    "top text\n"
+    "bottom text\n"
+    "where is the sex entry guy?");
+
+const u8 gSuspeckPokedexText[] = _(
+    "This is placeholder text\n"
+    "top text\n"
+    "bottom text\n"
+    "where is the sex entry guy?");
+
+const u8 gCybirbPokedexText[] = _(
+    "This is placeholder text\n"
+    "top text\n"
+    "bottom text\n"
+    "where is the sex entry guy?");
