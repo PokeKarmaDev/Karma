@@ -1137,6 +1137,9 @@ const u32 gMonFrontPic_ZarudeDada[] = INCBIN_U32("graphics/pokemon/zarude/dada/f
 const u32 gMonFrontPic_CalyrexIceRider[] = INCBIN_U32("graphics/pokemon/calyrex/ice_rider/front.4bpp.lz");
 const u32 gMonFrontPic_CalyrexShadowRider[] = INCBIN_U32("graphics/pokemon/calyrex/shadow_rider/front.4bpp.lz");
 const u32 gMonFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/anim_front.4bpp.lz");
+const u32 gMonFrontPic_Icognicrow[] = INCBIN_U32("graphics/pokemon/icognicrow/front.4bpp.lz");
+const u32 gMonFrontPic_Suspeck[] = INCBIN_U32("graphics/pokemon/suspeck/front.4bpp.lz");
+const u32 gMonFrontPic_Cybirb[] = INCBIN_U32("graphics/pokemon/cybirb/front.4bpp.lz");
 
 const u32 gMonBackPic_CircledQuestionMark[] = INCBIN_U32("graphics/pokemon/question_mark/circled/back.4bpp.lz");
 const u32 gMonBackPic_DoubleQuestionMark[] = INCBIN_U32("graphics/pokemon/question_mark/double/back.4bpp.lz");
@@ -2276,6 +2279,9 @@ const u32 gMonBackPic_UrshifuRapidStrikeStyle[] = INCBIN_U32("graphics/pokemon/u
 const u32 gMonBackPic_ZarudeDada[] = INCBIN_U32("graphics/pokemon/zarude/dada/back.4bpp.lz");
 const u32 gMonBackPic_CalyrexIceRider[] = INCBIN_U32("graphics/pokemon/calyrex/ice_rider/back.4bpp.lz");
 const u32 gMonBackPic_CalyrexShadowRider[] = INCBIN_U32("graphics/pokemon/calyrex/shadow_rider/back.4bpp.lz");
+const u32 gMonBackPic_Icognicrow[] = INCBIN_U32("graphics/pokemon/icognicrow/back.4bpp.lz");
+const u32 gMonBackPic_Suspeck[] = INCBIN_U32("graphics/pokemon/suspeck/back.4bpp.lz");
+const u32 gMonBackPic_Cybirb[] = INCBIN_U32("graphics/pokemon/cybirb/back.4bpp.lz");
 
 const u32 gMonPalette_CircledQuestionMark[] = INCBIN_U32("graphics/pokemon/question_mark/circled/normal.gbapal.lz");
 const u32 gMonPalette_DoubleQuestionMark[] = INCBIN_U32("graphics/pokemon/question_mark/double/normal.gbapal.lz");
@@ -3441,6 +3447,9 @@ const u32 gMonPalette_ZarudeDada[] = INCBIN_U32("graphics/pokemon/zarude/dada/no
 const u32 gMonPalette_CalyrexIceRider[] = INCBIN_U32("graphics/pokemon/calyrex/ice_rider/normal.gbapal.lz");
 const u32 gMonPalette_CalyrexShadowRider[] = INCBIN_U32("graphics/pokemon/calyrex/shadow_rider/normal.gbapal.lz");
 const u32 gMonPalette_Egg[] = INCBIN_U32("graphics/pokemon/egg/normal.gbapal.lz");
+const u32 gMonPalette_Icognicrow[] = INCBIN_U32("graphics/pokemon/icognicrow/normal.gbapal.lz");
+const u32 gMonPalette_Suspeck[] = INCBIN_U32("graphics/pokemon/suspeck/normal.gbapal.lz");
+const u32 gMonPalette_Cybirb[] = INCBIN_U32("graphics/pokemon/cybirb/normal.gbapal.lz");
 
 const u32 gMonShinyPalette_CircledQuestionMark[] = INCBIN_U32("graphics/pokemon/question_mark/circled/shiny.gbapal.lz");
 const u32 gMonShinyPalette_DoubleQuestionMark[] = INCBIN_U32("graphics/pokemon/question_mark/double/shiny.gbapal.lz");
@@ -4599,6 +4608,9 @@ const u32 gMonShinyPalette_UrshifuRapidStrikeStyle[] = INCBIN_U32("graphics/poke
 const u32 gMonShinyPalette_ZarudeDada[] = INCBIN_U32("graphics/pokemon/zarude/dada/shiny.gbapal.lz");
 const u32 gMonShinyPalette_CalyrexIceRider[] = INCBIN_U32("graphics/pokemon/calyrex/ice_rider/shiny.gbapal.lz");
 const u32 gMonShinyPalette_CalyrexShadowRider[] = INCBIN_U32("graphics/pokemon/calyrex/shadow_rider/shiny.gbapal.lz");
+const u32 gMonShinyPalette_Icognicrow[] = INCBIN_U32("graphics/pokemon/icognicrow/shiny.gbapal.lz");
+const u32 gMonShinyPalette_Suspeck[] = INCBIN_U32("graphics/pokemon/suspeck/shiny.gbapal.lz");
+const u32 gMonShinyPalette_Cybirb[] = INCBIN_U32("graphics/pokemon/cybirb/shiny.gbapal.lz");
 
 const u8 gMonIcon_QuestionMark[] = INCBIN_U8("graphics/pokemon/question_mark/icon.4bpp");
 const u8 gMonIcon_Bulbasaur[] = INCBIN_U8("graphics/pokemon/bulbasaur/icon.4bpp");
@@ -5621,6 +5633,9 @@ const u8 gMonIcon_NecrozmaDawnWings[] = INCBIN_U8("graphics/pokemon/necrozma/daw
 const u8 gMonIcon_NecrozmaUltra[] = INCBIN_U8("graphics/pokemon/necrozma/ultra/icon.4bpp");
 const u8 gMonIcon_MagearnaOriginalColor[] = INCBIN_U8("graphics/pokemon/magearna/original_color/icon.4bpp");
 const u8 gMonIcon_Egg[] = INCBIN_U8("graphics/pokemon/egg/icon.4bpp");
+const u8 gMonIcon_Icognicrow[] = INCBIN_U8("graphics/pokemon/icognicrow/icon.4bpp");
+const u8 gMonIcon_Suspeck[] = INCBIN_U8("graphics/pokemon/suspeck/icon.4bpp");
+const u8 gMonIcon_Cybirb[] = INCBIN_U8("graphics/pokemon/cybirb/icon.4bpp");
 
 const u8 gMonFootprint_QuestionMark[] = INCBIN_U8("graphics/pokemon/question_mark/footprint.1bpp");
 const u8 gMonFootprint_Bulbasaur[] = INCBIN_U8("graphics/pokemon/bulbasaur/footprint.1bpp");
