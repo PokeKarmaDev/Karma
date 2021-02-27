@@ -9133,6 +9133,24 @@ static const union AnimCmd sAnim_DEOXYS_SPEED_2[] =
     ANIMCMD_END,
 };
 
+static const union AnimCmd sAnim_ICOGNICROW_1[] =
+{
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_SUSPECK_1[] =
+{
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
+static const union AnimCmd sAnim_CYBIRB_1[] =
+{
+    ANIMCMD_FRAME(0, 1),
+    ANIMCMD_END,
+};
+
 static const union AnimCmd *const sAnims_NONE[] ={
     sAnim_GeneralFrame0,
     sAnim_NONE_1,
@@ -14411,6 +14429,21 @@ static const union AnimCmd *const sAnims_DEOXYS_SPEED[] ={
     sAnim_DEOXYS_SPEED_2,
 };
 
+static const union AnimCmd *const sAnims_ICOGNICROW[] ={
+    sAnim_GeneralFrame0,
+    sAnim_ICOGNICROW_1,
+};
+
+static const union AnimCmd *const sAnims_SUSPECK[] ={
+    sAnim_GeneralFrame0,
+    sAnim_SUSPECK_1,
+};
+
+static const union AnimCmd *const sAnims_CYBIRB[] ={
+    sAnim_GeneralFrame0,
+    sAnim_CYBIRB_1,
+};
+
 #define ANIM_CMD(name)             [SPECIES_##name] = sAnims_##name
 #define ANIM_CMD_FULL(name, anims) [SPECIES_##name] = anims
 
@@ -15624,6 +15657,9 @@ const union AnimCmd *const *const gMonFrontAnimsPtrTable[] =
     ANIM_CMD_FULL(CALYREX_ICE_RIDER, sAnims_CALYREX),
     ANIM_CMD_FULL(CALYREX_SHADOW_RIDER, sAnims_CALYREX),
     ANIM_CMD(EGG),
+    ANIM_CMD(ICOGNICROW),
+    ANIM_CMD(SUSPECK),
+    ANIM_CMD(CYBIRB),
 };
 
 #undef ANIM_CMD
