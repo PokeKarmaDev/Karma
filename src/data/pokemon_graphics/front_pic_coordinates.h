@@ -6107,4 +6107,19 @@ const struct MonCoords gMonFrontPicCoords[] =
         .size = 0x33,
         .y_offset = 20,
     },
+    [SPECIES_ICOGNICROW] =
+    {
+        .size = 0x55,
+        .y_offset = 12,
+    },
+    [SPECIES_SUSPECK] =
+    {
+        .size = 0x67,
+        .y_offset = 6,
+    },
+    [SPECIES_CYBIRB] =
+    {
+        .size = 0x88,
+        .y_offset = 0,
+    }, 
 };
