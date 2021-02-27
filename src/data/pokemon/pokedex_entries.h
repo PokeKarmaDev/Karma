@@ -10787,4 +10787,40 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerScale = 256,
         .trainerOffset = 0,
     },
+    
+    [NATIONAL_DEX_ICOGNICROW] =
+    {
+        .categoryName = _("Hiding"),
+        .height = 3,
+        .weight = 20,
+        .description = gIcognicrowPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+
+    [NATIONAL_DEX_SUSPECK] =
+    {
+        .categoryName = _("Suspicious"),
+        .height = 11,
+        .weight = 245,
+        .description = gSuspeckPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+
+    [NATIONAL_DEX_CYBIRB] =
+    {
+        .categoryName = _("Drone"),
+        .height = 15,
+        .weight = 671,
+        .description = gCybirbPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
 };
