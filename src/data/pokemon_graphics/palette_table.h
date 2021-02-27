@@ -1273,6 +1273,10 @@ SPECIES_PAL(CRAMORANT_GULPING, gMonPalette_CramorantGulping),
     SPECIES_PAL(CALYREX_SHADOW_RIDER, gMonPalette_CalyrexShadowRider),
 
     SPECIES_PAL(EGG, gMonPalette_Egg),
+    
+    SPECIES_PAL(ICOGNICROW, gMonPalette_Icognicrow),
+    SPECIES_PAL(SUSPECK, gMonPalette_Suspeck),
+    SPECIES_PAL(CYBIRB, gMonPalette_Cybirb),
 };
 
 const struct CompressedSpritePalette gMonPaletteTableFemale[] =
