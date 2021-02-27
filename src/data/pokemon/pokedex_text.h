@@ -5356,7 +5356,7 @@ const u8 gCalyrexPokedexText[] = _(
     "reigned over the Galar region in times\n"
     "of yore.");
 
-const u8 gIncognicrowPokedexText[] = _(
+const u8 gIcognicrowPokedexText[] = _(
     "This is placeholder text\n"
     "top text\n"
     "bottom text\n"
