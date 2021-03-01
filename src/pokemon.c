@@ -2291,7 +2291,6 @@ static const u8 sMonFrontAnimIdsTable[NUM_SPECIES - 1] =
     [SPECIES_GLAMEOW - 1] = 0x09,
     [SPECIES_PURUGLY - 1] = 0x10,
     [SPECIES_CHINGLING - 1] = 0x1D,
-    [SPECIES_STUNKY - 1] = 0x1A,
     [SPECIES_SKUNTANK - 1] = 0x45,
     [SPECIES_BRONZOR - 1] = 0x4E,
     [SPECIES_BRONZONG - 1] = 0x51,
