@@ -547,7 +547,7 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
-    [SPECIES_INCOGNICROW] =
+    [SPECIES_ICOGNICROW] =
     {
         .baseHP        = 40, 
         .baseAttack    = 50,
