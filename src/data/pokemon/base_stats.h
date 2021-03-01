@@ -566,7 +566,11 @@ const struct BaseStats gBaseStats[] =
         .growthRate = GROWTH_MEDIUM_SLOW, 
         .eggGroup1 = EGG_GROUP_FLYING, 
         .eggGroup2 = EGG_GROUP_FLYING,
-        .abilities = {ABILITY_STAKEOUT, ABILITY_HUSTLE}, 
+        #ifdef BATTLE_ENGINE
+            .abilities = {ABILITY_STAKEOUT, ABILITY_HUSTLE},
+        #else
+            .abilities = {ABILITY_STAKEOUT, ABILITY_NONE},
+        #endif
         .abilityHidden = ABILITY_RATTLED,
         .bodyColor = BODY_COLOR_BLACK,
         .noFlip = FALSE,
@@ -12245,8 +12249,11 @@ const struct BaseStats gBaseStats[] =
         .growthRate = GROWTH_MEDIUM_FAST,
         .eggGroup1 = EGG_GROUP_FIELD,
         .eggGroup2 = EGG_GROUP_FIELD,
-        .abilities = {ABILITY_STENCH, ABILITY_AFTERMATH},
-        .abilities = {ABILITY_STENCH, ABILITY_NONE},
+        #ifdef BATTLE_ENGINE
+            .abilities = {ABILITY_STENCH, ABILITY_AFTERMATH},
+        #else
+            .abilities = {ABILITY_STENCH, ABILITY_NONE},
+        #endif
         .abilityHidden = ABILITY_KEEN_EYE,
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = FALSE,
