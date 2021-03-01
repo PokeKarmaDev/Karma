@@ -2607,8 +2607,8 @@ static const u8 sMonFrontAnimIdsTable[NUM_SPECIES - 1] =
     [SPECIES_SPECTRIER - 1] = 0x00,
     [SPECIES_CALYREX - 1] = 0x00,
     
-    //Karma
-    [SPECIES_ICOGNICROW - 1] = 17,
+    // Karma
+    [SPECIES_ICOGNICROW - 1] = 0x17,
     [SPECIES_SUSPECK - 1] = 0x17,
     [SPECIES_CYBIRB - 1] = 0x29,
 
