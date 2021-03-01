@@ -21948,6 +21948,35 @@ const struct BaseStats gBaseStats[] =
         .noFlip = FALSE,
     },
 
+  [SPECIES_PYUKUMUKU] =
+  {
+      .baseHP        = 55,
+      .baseAttack    = 60,
+      .baseDefense   = 130,
+      .baseSpeed     = 5,
+      .baseSpAttack  = 30,
+      .baseSpDefense = 130,
+      .type1 = TYPE_WATER,
+      .type2 = TYPE_WATER,
+      .catchRate = 60,
+      .expYield = 144,
+      .evYield_SpDefense = 2,
+      .genderRatio = PERCENT_FEMALE(50),
+      .eggCycles = 15,
+      .friendship = 70,
+      .growthRate = GROWTH_FAST,
+      .eggGroup1 = EGG_GROUP_WATER_1,
+      .eggGroup2 = EGG_GROUP_WATER_1,
+        #ifdef BATTLE_ENGINE
+            .abilities = {ABILITY_INNARDS_OUT, ABILITY_NONE},
+            .abilityHidden = ABILITY_UNAWARE,
+        #else
+            .abilities = {ABILITY_NONE, ABILITY_NONE},
+        #endif
+        .bodyColor = BODY_COLOR_BLACK,
+        .noFlip = FALSE,    
+  },
+      
     [SPECIES_TYPE_NULL] =
     {
         .baseHP        = 95,
