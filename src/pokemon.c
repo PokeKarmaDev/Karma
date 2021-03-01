@@ -2606,6 +2606,11 @@ static const u8 sMonFrontAnimIdsTable[NUM_SPECIES - 1] =
     [SPECIES_GLASTRIER - 1] = 0x00,
     [SPECIES_SPECTRIER - 1] = 0x00,
     [SPECIES_CALYREX - 1] = 0x00,
+    
+    //Karma
+    [SPECIES_ICOGNICROW - 1] = 17,
+    [SPECIES_SUSPECK - 1] = 0x17,
+    [SPECIES_CYBIRB - 1] = 0x29,
 
     // Forms
     [SPECIES_ROTOM_HEAT - 1] = 0,
@@ -2613,11 +2618,6 @@ static const u8 sMonFrontAnimIdsTable[NUM_SPECIES - 1] =
     [SPECIES_ROTOM_FAN - 1] = 43,
     [SPECIES_ROTOM_MOW - 1] = 0,
     [SPECIES_ROTOM_WASH - 1] = 0,
-    
-    //Karma
-    [SPECIES_ICOGNICROW - 1] = 0x00,
-    [SPECIES_SUSPECK - 1] = 0x00,
-    [SPECIES_CYBIRB - 1] = 0x00,
 };
 
 static const u8 sMonAnimationDelayTable[NUM_SPECIES - 1] =
