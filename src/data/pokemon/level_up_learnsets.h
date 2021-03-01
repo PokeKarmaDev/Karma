@@ -356,7 +356,7 @@ static const struct LevelUpMove sShibonkLevelUpLearnset[] = {
 
 
 
-static const struct LevelUpMove sIncognicrowLevelUpLearnset[] = {
+static const struct LevelUpMove sIcognicrowLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_SUPERSONIC),
     LEVEL_UP_MOVE( 1, MOVE_PECK),
     LEVEL_UP_MOVE( 3, MOVE_LOCKON),
