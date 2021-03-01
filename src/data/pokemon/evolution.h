@@ -12,7 +12,7 @@ const struct Evolution gEvolutionTable[NUM_SPECIES][EVOS_PER_MON] =
     [SPECIES_EUPHOLIDAE]                = {{EVO_LEVEL, 18, SPECIES_MLADIBUG}},
     [SPECIES_SNAGOON]              = {{EVO_LEVEL, 14, SPECIES_REPOCOON}},
     [SPECIES_PUPONK]             = {{EVO_LEVEL, 30, SPECIES_SHIBONK}},
-    [SPECIES_INCOGNICROW]               = {{EVO_LEVEL, 18, SPECIES_SUSPECK}},
+    [SPECIES_ICOGNICROW]               = {{EVO_LEVEL, 18, SPECIES_SUSPECK}},
     [SPECIES_SUSPECK]               = {{EVO_LEVEL, 40, SPECIES_CYBIRB}},
                                        
                                        
