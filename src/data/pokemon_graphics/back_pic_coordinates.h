@@ -4495,6 +4495,21 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = 0x76,
         .y_offset = 10,
     },
+    [SPECIES_ICOGNICROW] =
+    {
+        .size = 0x78,
+        .y_offset = 4,
+    },
+    [SPECIES_SUSPECK] =
+    {
+        .size = 0x87,
+        .y_offset = 7,
+    },
+    [SPECIES_CYBIRB] =
+    {
+        .size = 0x88,
+        .y_offset = 1,
+    },
     // Megas
     [SPECIES_VENUSAUR_MEGA] =
     {
@@ -6106,21 +6121,5 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = 0x36,
         .y_offset = 10,
     },
-    // Karma
-    [SPECIES_ICOGNICROW] =
-    {
-        .size = 0x78,
-        .y_offset = 4,
-    },
-    [SPECIES_SUSPECK] =
-    {
-        .size = 0x87,
-        .y_offset = 7,
-    },
-    [SPECIES_CYBIRB] =
-    {
-        .size = 0x88,
-        .y_offset = 1,
-    },
-    
+
 };
