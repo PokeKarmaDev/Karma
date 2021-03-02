@@ -6106,6 +6106,7 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = 0x36,
         .y_offset = 10,
     },
+    // Karma
     [SPECIES_ICOGNICROW] =
     {
         .size = 0x78,
