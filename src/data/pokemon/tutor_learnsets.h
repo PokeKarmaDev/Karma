@@ -10616,4 +10616,8 @@ static const u32 sTutorLearnsets[] =
                                             | TUTOR(MOVE_SWIFT)
                                             | TUTOR(MOVE_THUNDER_PUNCH)
                                             | TUTOR(MOVE_THUNDER_WAVE)),
+    [SPECIES_SUSPECK]  = TUTOR_LEARNSET(0),
+    
+    [SPECIES_CYBIRB]  = TUTOR_LEARNSET(0),
+    
 };
