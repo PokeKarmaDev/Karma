@@ -21,7 +21,7 @@ const u8 gSpeciesNames[][POKEMON_NAME_LENGTH + 1] = {
     [SPECIES_NESNOOMI] = _("Nesnoomi"),
     [SPECIES_PUPONK] = _("Puponk"),
     [SPECIES_SHIBONK] = _("Shibonk"),
-    [SPECIES_INCOGNICROW] = _("Incognicro"),
+    [SPECIES_ICOGNICROW] = _("Icognicrow"),
     [SPECIES_SUSPECK] = _("Suspeck"),
     [SPECIES_CYBIRB] = _("Cybirb"),
 
