@@ -4409,6 +4409,19 @@ const u16 gEggMoves[] = {
         MOVE_FAKE_OUT,
         MOVE_PSYCHO_SHIFT,
         MOVE_HEAL_PULSE),
+    
+    egg_moves(SPEAROW,
+        MOVE_FEINT_ATTACK,
+        MOVE_SCARY_FACE,
+        MOVE_QUICK_ATTACK,
+        MOVE_TRI_ATTACK,
+        MOVE_ASTONISH,
+        MOVE_SKY_ATTACK,
+        MOVE_WHIRLWIND,
+        MOVE_UPROAR,
+        MOVE_FEATHER_DANCE,
+        MOVE_STEEL_WING,
+        MOVE_RAZOR_WIND),
 
     EGG_MOVES_TERMINATOR
 };
