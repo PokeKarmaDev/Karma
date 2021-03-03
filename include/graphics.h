@@ -1203,6 +1203,9 @@ extern const u32 gMonFrontPic_UrshifuRapidStrikeStyle[];
 extern const u32 gMonFrontPic_ZarudeDada[];
 extern const u32 gMonFrontPic_CalyrexIceRider[];
 extern const u32 gMonFrontPic_CalyrexShadowRider[];
+extern const u32 gMonFrontPic_Icognicrow[];
+extern const u32 gMonFrontPic_Suspeck[];
+extern const u32 gMonFrontPic_Cybirb[];
 extern const u32 gMonFrontPic_Egg[];
 
 extern const u32 gMonBackPic_CircledQuestionMark[];
@@ -2343,6 +2346,9 @@ extern const u32 gMonBackPic_UrshifuRapidStrikeStyle[];
 extern const u32 gMonBackPic_ZarudeDada[];
 extern const u32 gMonBackPic_CalyrexIceRider[];
 extern const u32 gMonBackPic_CalyrexShadowRider[];
+extern const u32 gMonBackPic_Icognicrow[];
+extern const u32 gMonBackPic_Suspeck[];
+extern const u32 gMonBackPic_Cybirb[];
 
 extern const u32 gMonPalette_CircledQuestionMark[];
 extern const u32 gMonPalette_DoubleQuestionMark[];
@@ -3507,6 +3513,9 @@ extern const u32 gMonPalette_UrshifuRapidStrikeStyle[];
 extern const u32 gMonPalette_ZarudeDada[];
 extern const u32 gMonPalette_CalyrexIceRider[];
 extern const u32 gMonPalette_CalyrexShadowRider[];
+extern const u32 gMonPalette_Icognicrow[];
+extern const u32 gMonPalette_Suspeck[];
+extern const u32 gMonPalette_Cybirb[];
 extern const u32 gMonPalette_Egg[];
 
 extern const u32 gMonShinyPalette_CircledQuestionMark[];
@@ -4666,6 +4675,9 @@ extern const u32 gMonShinyPalette_UrshifuRapidStrikeStyle[];
 extern const u32 gMonShinyPalette_ZarudeDada[];
 extern const u32 gMonShinyPalette_CalyrexIceRider[];
 extern const u32 gMonShinyPalette_CalyrexShadowRider[];
+extern const u32 gMonShinyPalette_Icognicrow[];
+extern const u32 gMonShinyPalette_Suspeck[];
+extern const u32 gMonShinyPalette_Cybirb[];
 
 extern const u8 gMonIcon_QuestionMark[];
 extern const u8 gMonIcon_Bulbasaur[];
@@ -5687,6 +5699,9 @@ extern const u8 gMonIcon_NecrozmaDuskMane[];
 extern const u8 gMonIcon_NecrozmaDawnWings[];
 extern const u8 gMonIcon_NecrozmaUltra[];
 extern const u8 gMonIcon_MagearnaOriginalColor[];
+extern const u8 gMonIcon_Icognicrow[];
+extern const u8 gMonIcon_Suspeck[];
+extern const u8 gMonIcon_Cybirb[];
 extern const u8 gMonIcon_Egg[];
 
 extern const u8 gMonFootprint_QuestionMark[];
