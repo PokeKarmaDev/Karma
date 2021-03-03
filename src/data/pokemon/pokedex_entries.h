@@ -10790,7 +10790,7 @@ const struct PokedexEntry gPokedexEntries[] =
     
     [NATIONAL_DEX_ICOGNICROW] =
     {
-        .categoryName = _("Hiding"),
+        .categoryName = _("Anonymous"),
         .height = 3,
         .weight = 20,
         .description = gIcognicrowPokedexText,
