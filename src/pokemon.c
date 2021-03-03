@@ -309,6 +309,9 @@ const u16 gSpeciesToHoennPokedexNum[NUM_SPECIES] = // Assigns all species to the
     SPECIES_TO_HOENN(RAYQUAZA),
     SPECIES_TO_HOENN(JIRACHI),
     SPECIES_TO_HOENN(DEOXYS),
+    SPECIES_TO_HOENN(ICOGNICROW),
+    SPECIES_TO_HOENN(SUSPECK),
+    SPECIES_TO_HOENN(CYBIRB),
 };
 
 const u16 gSpeciesToNationalPokedexNum[NUM_SPECIES] = // Assigns all species to the National Dex Index (Summary No. for National Dex)
