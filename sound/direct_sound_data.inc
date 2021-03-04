@@ -4307,6 +4307,18 @@ Cry_CalyrexShadowRider::
 	.incbin "sound/direct_sound_samples/cries/uncomp_calyrex_shadow_rider.bin"
 
 	.align 2
+Cry_Icognicrow::
+	.incbin "sound/direct_sound_samples/cries/uncomp_Icognicrow.bin"
+
+	.align 2
+Cry_Suspeck::
+	.incbin "sound/direct_sound_samples/cries/uncomp_Suspeck.bin"
+
+	.align 2
+Cry_Cybirb::
+	.incbin "sound/direct_sound_samples/cries/uncomp_Cybirb.bin"
+
+	.align 2
 DirectSoundWaveData_register_noise::
 	.incbin "sound/direct_sound_samples/register_noise.bin"
 
