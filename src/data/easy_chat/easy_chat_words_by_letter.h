@@ -324,6 +324,7 @@ const u16 gEasyChatWordsByLetter_C[] = {
     EC_WORD_CUTE,
     EC_WORD_CUTE_CHARM,
     EC_WORD_CUTENESS,
+    EC_POKEMON2(CYBIRB),
     EC_POKEMON2(CYNDAQUIL),
 };
 
@@ -776,6 +777,7 @@ const u16 gEasyChatWordsByLetter_I[] = {
     EC_WORD_IF_I_LOSE,
     EC_WORD_IF_I_WIN,
     -1, 2, // Doubled pokemon species name
+    EC_POKEMON(ICOGNICROW),
     EC_POKEMON(IGGLYBUFF),
     EC_POKEMON2(IGGLYBUFF),
     EC_WORD_IGNORANT,
@@ -1603,6 +1605,7 @@ const u16 gEasyChatWordsByLetter_S[] = {
     EC_WORD_SURPRISE,
     EC_WORD_SURRENDER,
     EC_POKEMON(SURSKIT),
+    EC_POKEMON(SUSPECK),
     EC_POKEMON(SWABLU),
     EC_MOVE(SWAGGER),
     EC_MOVE2(SWALLOW),
