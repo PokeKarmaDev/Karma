@@ -1,5 +1,7 @@
 # Pokémon Karma
 
+A satrical Pokemon romhack based off of the famous social media website, Reddit!
+
 [![Build Status]
 
 Original Decomp:
@@ -19,4 +21,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 
 You can find the pokeemerald discord at ([Discord](https://discord.gg/d5dubZ3)) and their [IRC](https://kiwiirc.com/client/irc.freenode.net/?#pret).
 
-Pokemon Karma Discord: https://discord.gg/bRn8S4bqmj
+Pokemon Karma Discord: https://discord.gg/TRec58W8MP
