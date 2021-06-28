@@ -15,13 +15,13 @@
   "connections": [
     {
       "direction": "up",
-      "offset": 0,
-      "map": "MAP_OLDALE_TOWN"
-    },
-    {
-      "direction": "up",
       "offset": 3,
       "map": "MAP_LITTLEROOT_TOWN"
+    },
+    {
+      "direction": "down",
+      "offset": 0,
+      "map": "MAP_OLDALE_TOWN"
     }
   ],
   "object_events": [
