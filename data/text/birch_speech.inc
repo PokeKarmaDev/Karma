@@ -1,13 +1,13 @@
 gText_Birch_Welcome:: @ 82C897B
 	.string "Hi! Sorry to keep you waiting!\p"
 	.string "Welcome to the world of POKéMON!\p"
-	.string "My name is BIRCH.\p"
+	.string "My name is CITRA.\p"
 	.string "But everyone calls me the POKéMON\n"
 	.string "PROFESSOR.\p"
 	.string "$"
 
 gText_Birch_Pokemon:: @ 82C89FB
-	.string "This is what we call a “POKéMON.”\p"
+	.string "This thing here is what we call a “POKéMON.”\p"
 	.string "\n"
 	.string "$"
 
@@ -24,7 +24,9 @@ gText_Birch_MainSpeech:: @ 82C8A1F
 	.string "In fact, there are many, many\n"
 	.string "secrets surrounding POKéMON.\p"
 	.string "To unravel POKéMON mysteries,\n"
-	.string "I've been undertaking research.\l"
+	.string "I study innate characteristics,\p"
+	.string "Of POKéMON,/n"
+	.string "I study pokemon.\l"
 	.string "That's what I do.\p"
 	.string "$"
 
@@ -45,7 +47,7 @@ gText_Birch_SoItsPlayer:: @ 82C8C1C
 gText_Birch_YourePlayer:: @ 82C8C2A
 	.string "Ah, okay!\p"
 	.string "You're {PLAYER}{KUN} who's moving to my\n"
-	.string "hometown of LITTLEROOT.\l"
+	.string "hometown of CAPE COZY.\l"
 	.string "I get it now!\p"
 	.string "$"
 
