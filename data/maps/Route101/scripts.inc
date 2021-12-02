@@ -263,34 +263,35 @@ Route101_Movement_BirchApproachPlayer: @ 81EBE8D
 	step_end
 
 Route101_Text_HelpMe: @ 81EBE8F
-	.string "H-help me!$"
+	.string "I could use assistance!$"
 
 Route101_Text_PleaseHelp: @ 81EBE9A
 	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
+	.string "I could use some help!\p"
+	.string "Here!\n"
 	.string "There's a POKé BALL!$"
 
 Route101_Text_DontLeaveMe: @ 81EBEDF
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "What are you doing?!\n"
+	.string "I can't catch this thing\n
+	.sting alone!$"
 
 Route101_Text_YouSavedMe: @ 81EBF12
 	.string "PROF. BIRCH: Whew…\p"
 	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
+	.string "POKéMON and I found one looking stronger.\p"
+	.string "than usual, you helped out a lot.\n"
+	.string "Thank you!\p"
 	.string "Oh?\p"
 	.string "Hi, you're {PLAYER}{KUN}!\p"
 	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "inside my POKéMON LAB later, okay?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter: @ 81EBFDD
-	.string "If POKéMON get tired, take them to\n"
+	.string "If POKéMON get worn out, take them to\n"
 	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.string "There's a POKéMON CENTER in LITTA\n"
+	.string "CITY right close by.$"
 
 Route101_Text_WildPokemonInTallGrass: @ 81EC04A
 	.string "Wild POKéMON will jump out at you in\n"
