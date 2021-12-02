@@ -15,13 +15,18 @@
   "connections": [
     {
       "direction": "left",
-      "offset": -50,
+      "offset": -51,
       "map": "MAP_ROUTE104"
     },
     {
       "direction": "right",
       "offset": 10,
       "map": "MAP_ROUTE102"
+    },
+    {
+      "direction": "left",
+      "offset": 0,
+      "map": "MAP_OLDALE_TOWN"
     }
   ],
   "object_events": [
